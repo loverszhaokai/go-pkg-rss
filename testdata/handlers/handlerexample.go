@@ -12,7 +12,7 @@ Build & run with:
 
 import (
 	"fmt"
-	rss "github.com/jteeuwen/go-pkg-rss"
+	rss "github.com/loverszhaokai/go-pkg-rss"
 	"os"
 	"time"
 )

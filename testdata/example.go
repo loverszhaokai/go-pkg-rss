@@ -17,7 +17,7 @@ import (
 	"os"
 	"time"
 
-	rss "github.com/jteeuwen/go-pkg-rss"
+	rss "github.com/loverszhaokai/go-pkg-rss"
 	"github.com/loverszhaokai/go-pkg-xmlx"
 )
 
