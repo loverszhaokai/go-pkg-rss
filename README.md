@@ -30,7 +30,7 @@ an example of how this works.
 
 ## DEPENDENCIES
 
-[github.com/jteeuwen/go-pkg-xmlx](http://github.com/jteeuwen/go-pkg-xmlx)
+[github.com/loverszhaokai/go-pkg-xmlx](http://github.com/loverszhaokai/go-pkg-xmlx)
 
 ## USAGE
 

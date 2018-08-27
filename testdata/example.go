@@ -18,7 +18,7 @@ import (
 	"time"
 
 	rss "github.com/jteeuwen/go-pkg-rss"
-	"github.com/jteeuwen/go-pkg-xmlx"
+	"github.com/loverszhaokai/go-pkg-xmlx"
 )
 
 func main() {
